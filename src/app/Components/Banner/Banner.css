@@ -1,0 +1,116 @@
+.Groves {
+  margin-left: 12%;
+}
+
+.siteHeader {
+  display: flex;
+  background-image: url("../../assets/Banner-image.jpg");
+  background-position: center;
+  background-repeat: no-repeat !important;
+  background-size: cover;
+  padding-top: 18.75rem; 
+  padding-bottom: 11.25rem; 
+  padding-left: 9.375rem; 
+  height: 100vh;
+  position: relative;
+}
+
+.main_Heading {
+  z-index: 9999;
+  gap: 0.9375rem; 
+  display: flex;
+  color: #fff;
+  flex-direction: column;
+  justify-content: space-around;
+  align-self: center;
+}
+
+.Khawaja {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.15rem;
+  color: #FEF9FF;
+  z-index: 9999;
+}
+
+.Luxury {
+  font-family: "Playfair Display", serif;
+  font-size: 3.75rem; 
+  z-index: 9999;
+}
+
+.Lorem {
+  font-size: 0.9375rem;
+  color: #d3d3d3; 
+  z-index: 9999;
+}
+
+
+.reservation i {
+  font-size: 1.25rem; 
+  z-index: 9999;
+}
+
+.slick-dots li button:before {
+  color: #fff !important;
+  font-size: 0.8125rem !important; 
+  z-index: 9999;
+}
+
+
+.slick-dots {
+  position: absolute;
+  bottom: 0.9375rem !important; 
+  color: #fff !important;
+  font-size: 1.25rem; 
+  z-index: 9999;
+  left: -6.25rem; 
+}
+
+.Home_new ul {
+  gap: 4.375rem; 
+  display: flex;
+  font-size: 0.9375rem; 
+  list-style: none;
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+
+.Home_new {
+  display: flex;
+  padding-left: 6.25rem !important; 
+  gap: 6.25rem; 
+}
+
+.Home_new ul li a {
+  color: rgb(161, 161, 161) !important;
+}
+
+.Home_new ul li a:hover {
+  color: #1bccd5 !important;
+}
+
+.Home_new ul li a:hover {
+  color: #302e4c;
+}
+
+.mainButton {
+  visibility: hidden;
+  
+}
+
+.Read {
+  padding: 0.9375rem 2.375rem; 
+  border: 0.0625rem solid gray; 
+  border-radius: 6.25rem; 
+  background-color:green ;
+  color: white !important;
+  padding-top: 0.8125rem; 
+  font-weight: 700;
+  z-index: 9999;
+}
+
+.Read:hover {
+  background-color: #1bccd5 !important;
+}

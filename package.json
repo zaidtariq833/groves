@@ -1,0 +1,31 @@
+{
+  "name": "the_groves",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.19",
+    "bootstrap": "^5.3.3",
+    "bootstrap-select": "^1.13.18",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.3",
+    "flag-icon-css": "^4.1.7",
+    "next": "14.2.3",
+    "postcss": "8.4.38",
+    "react": "18.3.1",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "18.3.1",
+    "react-flag-icon-css": "^1.0.25",
+    "react-icons": "^5.2.1",
+    "react-select": "^5.8.0",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1",
+    "tailwindcss": "3.4.4",
+    "webpack": "^5.92.0"
+  }
+}

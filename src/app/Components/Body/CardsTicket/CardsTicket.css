@@ -1,0 +1,41 @@
+@media (max-width: 375px) {
+  .generalAccessTicket {
+    margin-left: 70px;
+    font-size: 35px;
+  }
+
+  .buttonTicket {
+    width: 400px;
+    position: relative;
+    right: 75px;
+  }
+
+  .imgCity {
+    /* height: 235px; */
+    object-fit: contain;
+    aspect-ratio: 3/2;
+  }
+}
+
+@media (max-width: 430px) {
+  .generalAccessTicket {
+    margin-left: 40px;
+    font-size: 35px;
+    margin-right: 30px;
+  }
+
+  .cardsOfImages {
+    overflow-x: auto;
+    margin-left: 100px;
+  }
+
+  .buttonTicket {
+    width: 400px;
+    position: relative;
+    right: 75px;
+  }
+
+  .imgCity {
+    height: 300px;
+  }
+}

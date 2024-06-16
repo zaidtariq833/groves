@@ -1,0 +1,51 @@
+@media (max-width: 360px) {
+  .fa-arrow-right {
+    position: relative;
+    left: 230px;
+    font-size: 50px;
+    bottom: 20px;
+  }
+}
+
+@media (max-width: 375px) {
+  .fa-arrow-right {
+    position: relative;
+    left: 300px;
+    font-size: 50px;
+    bottom: 20px;
+  }
+
+  .endlessPossibilities {
+    font-size: 1.85rem;
+  }
+}
+
+@media (max-width: 390px) {
+  .endlessPossibilities {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 414px) {
+  .accessTicketText {
+    font-size: 12px;
+  }
+  .fa-arrow-right {
+    position: relative;
+    left: 270px;
+    font-size: 50px;
+    bottom: 20px;
+  }
+}
+
+@media (max-width: 430px) {
+  .accessTicketText {
+    font-size: 12px;
+  }
+  .fa-arrow-right {
+    position: relative;
+    left: 290px;
+    font-size: 50px;
+    bottom: 20px;
+  }
+}
