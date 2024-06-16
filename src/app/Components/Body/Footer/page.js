@@ -14,11 +14,9 @@ import "./Footer.css";
 export const Footer = () => {
   return (
     <div className="">
-      {window.innerHeight !== 430 ? (
-        <div className="w-full">
-          <hr className="text-[#fafafa] w-full" />
-        </div>
-      ) : null}
+      <div className="w-full">
+        <hr className="text-[#fafafa] w-full" />
+      </div>
 
       <div className="flex items-center justify-around footerJoin">
         <h1 className="text-[#fafafa] text-[3rem] font-custom-font-playfair">

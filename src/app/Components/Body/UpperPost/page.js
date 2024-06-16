@@ -19,7 +19,7 @@ const page = () => {
         <h5 className="text-[#FAF9F6] text-center text-sm">
           Lorem ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the <span className="block"></span>{" "}
-          industry's standard dummy text ever since the 1500's, when an unknown
+          industry&apos;s standard dummy text ever since the 1500&apos;s, when an unknown
           printer took a galley <span className="block"></span>
           of type and scrambled it to make a type specimen book.
         </h5>
@@ -53,7 +53,7 @@ const page = () => {
               <p class="text-[#FAF9F6] text-[1rem] accessTicketText">
                 Lorem ipsum is simply dummy text of the printing and typesetting
                 of the industry. Lorem <span class="block sm:hidden"></span>
-                Ipsum has been industry's standard dummy text
+                Ipsum has been industry&apos;s standard dummy text
               </p>
             </div>
           </div>
@@ -74,7 +74,7 @@ const page = () => {
         <h5 className="text-[#FAF9F6] text-center text-sm">
           Lorem ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the <span className="block"></span>{" "}
-          industry's standard dummy text ever since the 1500's, when an unknown
+          industry&apos;s standard dummy text ever since the 1500&apos;s, when an unknown
           printer took a galley <span className="block"></span>
           of type and scrambled it to make a type specimen book.
         </h5>
