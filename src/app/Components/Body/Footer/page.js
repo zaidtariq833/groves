@@ -11,7 +11,7 @@ import Mastercard from "../../../../../public/assets/mastercard.png";
 // import PlayStore from "../../../../public/"
 import "./Footer.css";
 
-export const Footer = () => {
+const Footer = () => {
   return (
     <div className="">
       <div className="w-full">
@@ -154,3 +154,5 @@ export const Footer = () => {
     </div>
   );
 };
+
+export default Footer

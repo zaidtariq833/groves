@@ -4,7 +4,7 @@ import Image from "next/image";
 import { Button } from "@/app/helpers/Button";
 import "./MapLocation.css";
 
-export const MapLocation = () => {
+const MapLocation = () => {
   const openMap = "Open the Map";
   return (
     <div className="flex items-center justify-around mapLoc">
@@ -33,3 +33,5 @@ export const MapLocation = () => {
     </div>
   );
 };
+
+export default MapLocation;

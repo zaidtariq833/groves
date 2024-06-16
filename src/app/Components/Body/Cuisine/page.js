@@ -4,7 +4,7 @@ import Image from "next/image";
 import { FaArrowRight } from "react-icons/fa6";
 import "./Cuisine.css"
 
-export const Cuisine = () => {
+const Cuisine = () => {
   return (
     <div className="bg-custom-gradient rounded-3xl">
       <div className="flex gap-[40px] px-10 cardsCuisine">
@@ -131,3 +131,5 @@ export const Cuisine = () => {
     </div>
   );
 };
+
+export default Cuisine

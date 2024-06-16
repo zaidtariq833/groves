@@ -7,7 +7,7 @@ import GrovesPalmTable from "../../../../../public/assets/Riyadh-Season-The-Grov
 import Image from "next/image";
 import "./Restaurants.css";
 
-export const RestaurantsEvents = () => {
+const RestaurantsEvents = () => {
   const txtBook = "Book Tickets";
   return (
     <div>
@@ -61,3 +61,5 @@ export const RestaurantsEvents = () => {
     </div>
   );
 };
+
+export default RestaurantsEvents

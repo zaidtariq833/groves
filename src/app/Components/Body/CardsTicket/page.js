@@ -7,7 +7,7 @@ import GrovesStone from "../../../../../public/assets/groves-stone.png";
 import GrovesPalmTable from "../../../../../public/assets/Riyadh-Season-The-Groves.png";
 import "./CardsTicket.css"
 
-export const CardsTicket = () => {
+const CardsTicket = () => {
   const txtTicket = "Book General Access Ticket";
   return (
     <>
@@ -70,3 +70,5 @@ export const CardsTicket = () => {
     </>
   );
 };
+
+export default CardsTicket
